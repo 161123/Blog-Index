@@ -1,4 +1,6 @@
 <template>
+
+
   <div id="center">
     <div class="top">
       <nav class="nav_wrap">

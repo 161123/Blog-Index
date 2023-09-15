@@ -160,7 +160,7 @@ export default {
   mounted() {
     setTimeout(() => {
       this.flag = true;
-    }, 1300);
+    }, 1300   );
     // 图片懒加载
     this.imgUrl = this.$config.BACKGROUND_IMG_URL;
     var img = new Image();
